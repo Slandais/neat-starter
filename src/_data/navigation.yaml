@@ -2,8 +2,8 @@ items:
   - text: Menu One
     url: /posts/my-third-big-post/
   - text: Menu Two
-    url: "#"
+    url: posts/my-third-big-post/
   - text: Menu Three
-    url: "#"
+    url: my-third-big-post
   - text: Blog
     url: /blog
